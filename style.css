@@ -3,8 +3,11 @@ h1 {color: black;
 
 #ita1 {width: 70%;
 }
-
+#ita1 {font-size: 250%;
+}
 #ita1 {margin-left: -0%;
+}
+#ita1 {text-align: center;
 }
 
 h1 {font-size: 550%;
@@ -12,4 +15,5 @@ h1 {font-size: 550%;
 h3 {font-size: 300%;
 }
 h2 {font-size: 300%;}
+
 
